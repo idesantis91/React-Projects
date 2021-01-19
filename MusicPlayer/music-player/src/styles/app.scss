@@ -1,0 +1,10 @@
+//Main App Style
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//Partial scss imports
+@import './song';
+@import './player';
