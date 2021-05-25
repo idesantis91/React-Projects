@@ -1,0 +1,11 @@
+POST http://localhost:4000/app/createquiz
+Content-Type: application/json
+
+{
+    "quizTitle": "Math",
+    "question": "2*2",
+    "answerA": "1",
+    "answerB": "2",
+    "answerC": "3",
+    "answerD": "4"
+}
